@@ -1,2 +1,4 @@
 *.exe
 *.exe~
+*.env
+/env_var_folder/*
